@@ -1,11 +1,12 @@
 # Custom Select Component
 
-<div style="display: flex;">
-<img style="margin: 0 5px;" height="30" src="https://img.shields.io/badge/-Laravel-blue" />
-<img style="margin: 0 5px;" height="30" src="https://img.shields.io/badge/-Blade-blue" />
-<img style="margin: 0 5px;" height="30" src="https://img.shields.io/badge/-AlpineJS-blue" />
-<img style="margin: 0 5px;" height="30" src="https://img.shields.io/badge/-TailwindCSS-blue" />
-</div>
+<img height="30" src="https://img.shields.io/badge/-Laravel-blue" />
+&nbsp;&nbsp;
+<img height="30" src="https://img.shields.io/badge/-Blade-blue" />
+&nbsp;&nbsp;
+<img height="30" src="https://img.shields.io/badge/-AlpineJS-blue" />
+&nbsp;&nbsp;
+<img height="30" src="https://img.shields.io/badge/-TailwindCSS-blue" />
 <br/>
 
 ## About
