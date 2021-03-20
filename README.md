@@ -15,8 +15,9 @@ I tried to leave the project in the same structure in which it was used for easy
 ```
 1. Download files
 2. Paste the files into your project using the same folder structure
-3. Don't forget to replace/remove the variables inside the files (app/Views/Components/Select.php) and (views/select/*)
-4. Done
+3. Import the JS file
+4. Don't forget to replace/remove the variables inside the files (app/Views/Components/Select.php) and (views/select/*)
+5. Done
 ```
 
 ## Feedback
