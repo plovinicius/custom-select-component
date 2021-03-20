@@ -1,11 +1,8 @@
 # Custom Select Component
 
 <img height="30" src="https://img.shields.io/badge/-Laravel-blue" />
-&nbsp;&nbsp;
 <img height="30" src="https://img.shields.io/badge/-Blade-blue" />
-&nbsp;&nbsp;
 <img height="30" src="https://img.shields.io/badge/-AlpineJS-blue" />
-&nbsp;&nbsp;
 <img height="30" src="https://img.shields.io/badge/-TailwindCSS-blue" />
 <br/>
 
