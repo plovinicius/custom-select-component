@@ -4,7 +4,7 @@
 <br/>
 
 ## About
-The need to create the component came from a study project which i was using this tehcnologies/languages, so i needed a select that would be integrated with **Livewire** and could be reused anywhere, as many times as needed.
+The need to create the component came from a study project which i was using this technologies/languages, so i needed a select that would be integrated with **Livewire** and could be reused anywhere, as many times as needed.
 
 ## Preview
 <img width="580" src="./previews/closed.png" alt="Preveiw dropdown closed" />
