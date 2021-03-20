@@ -5,7 +5,8 @@
         <div class="flex flex-col w-full">
             <template x-for="(option,index) in options" :key="option">
                 <div>
-                    <div class="w-full border-b border-gray-100 rounded-t cursor-pointer hover:bg-teal-100"
+                    <div x-bind:class="option.selected ? 'bg-black text-white' : ''"
+                        class="w-full border-b border-gray-100 rounded-t cursor-pointer hover:bg-gray-200 hover:text-black"
                         @click="select(index,$event)">
                         <div x-bind:class="option.selected ? 'border-teal-600' : ''"
                             class="relative flex items-center w-full p-2 pl-2 border-l-2 border-transparent">
