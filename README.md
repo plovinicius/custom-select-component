@@ -5,12 +5,10 @@
 
 ## About
 The need to create the component came from a study project which i was using this tehcnologies/languages, so i needed a select that would be integrated with **Livewire** and could be reused anywhere, as many times as needed.
-<br/>
 
 ## Preview
 <img width="580" src="./previews/closed.png" alt="Preveiw dropdown closed" />
 <img width="580" src="./previews/opened.png" alt="Preview dropdown opened" />
-<br/>
 
 ## How to use
 I tried to leave the project in the same structure in which it was used for easy understanding, follow the steps:
@@ -20,7 +18,6 @@ I tried to leave the project in the same structure in which it was used for easy
 3. Don't forget to replace/remove the variables inside the files (app/Views/Components/Select.php) and (views/select/*)
 4. Done
 ```
-<br/>
 
 ## Feedback
 - Feel free to use, implement and share this component if you wish.
